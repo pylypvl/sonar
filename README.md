@@ -1,2 +1,2 @@
 # sonar
-sonarqube without headache
+sonarqube installation without headache
