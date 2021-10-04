@@ -1,0 +1,3 @@
+ "sed -i '{102 a export PATH={'$PATH:{'/usr/bin/sonar-scanner/bin/}}}' /usr/share/oh-my-zsh/zshrc",
+        "sudo cp /usr/share/oh-my-zsh/zshrc  /etc/skel/.zshrc",
+        "bash /etc/skel/.zshrc"
